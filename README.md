@@ -6,7 +6,7 @@
 <p align="center">
   <img 
       class="stats-img"
-      src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=bro-dika&show_icons=true&theme=tokyonight"
       style="width:100%;max-width:450px;border-radius:10px;margin-bottom:15px;"
     >
 </p>
