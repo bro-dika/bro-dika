@@ -1,4 +1,4 @@
-<h2 align="center">Hanya untuk have fun</h2>
+<h2 align="center">Arrrghhh</h2>
 
 ---
 
