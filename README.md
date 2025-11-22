@@ -15,7 +15,7 @@
 
 ### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Dika=bro-dika&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width:100%; height:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bro-dika&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width:100%; height:auto;" />
 </p>
 
 ---
