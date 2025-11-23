@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineer-purple?style=for-the-badge&logo=openai" />
 </p>
 
 ---
