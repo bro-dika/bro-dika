@@ -2,17 +2,6 @@
 
 ---
 
-### ⚙️ GitHub Stats
-<p align="center">
-  <img 
-      class="stats-img"
-      src="https://github-readme-stats.vercel.app/api?username=bro-dika&show_icons=true&theme=tokyonight"
-      style="width:100%;max-width:450px;border-radius:10px;margin-bottom:15px;"
-    >
-</p>
-
----
-
 ### 🧩 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bro-dika&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width:100%; height:auto;" />
