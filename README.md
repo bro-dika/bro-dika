@@ -24,27 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bro-dika&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width:100%; height:auto;" />
 </p>
 
----
-
-### 🔎 Find me on
-
-<div align="center">
-
-<a href="https://instagram.com/andwisakti">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28">
-  <br>Instagram
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://youtube.com/@andwisakti">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="55">
-  <br>YouTube
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://linktr.ee/andwisakti">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Linktree_logo.svg" width="28">
-  <br>Linktree
-</a>
-
-</div>
