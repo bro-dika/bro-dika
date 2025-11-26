@@ -24,3 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bro-dika&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width:100%; height:auto;" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2022/09/25/02/20/02-20-22-329_512.gif" width="200">
+</p>
