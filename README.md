@@ -33,53 +33,56 @@
 <!-- Instagram -->
 <a href="https://instagram.com/andwisakti">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg">
-    <img alt="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="28" style="filter: invert(0%);">
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-dark-mode-only">
+    <!-- Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-light-mode-only">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="28">
   </picture>
-  <span style="font-size: 18px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80'><text x='0' y='20' fill='white' font-size='18'>Instagram</text></svg>">
-      <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80'><text x='0' y='20' fill='black' font-size='18'>Instagram</text></svg>">
-      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80'><text x='0' y='20' fill='black' font-size='18'>Instagram</text></svg>">
-    </picture>
-  </span>
+
+  <!-- TEKS -->
+  <picture>
+    <!-- DARK MODE (Putih) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=Instagram&color=FFFFFF&size=18&center=false&width=100&height=30">
+    <!-- LIGHT MODE (Hitam) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?lines=Instagram&color=000000&size=18&center=false&width=100&height=30">
+    <img src="https://readme-typing-svg.demolab.com?lines=Instagram&color=000000&size=18&center=false&width=100&height=30">
+  </picture>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <!-- YouTube -->
 <a href="https://youtube.com/@andwisakti">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg#gh-light-mode-only">
     <img alt="YouTube" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="28">
   </picture>
-  <span style="font-size: 18px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60'><text x='0' y='20' fill='white' font-size='18'>YouTube</text></svg>">
-      <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60'><text x='0' y='20' fill='black' font-size='18'>YouTube</text></svg>">
-      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60'><text x='0' y='20' fill='black' font-size='18'>YouTube</text></svg>">
-    </picture>
-  </span>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=YouTube&color=FFFFFF&size=18&center=false&width=100&height=30">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?lines=YouTube&color=000000&size=18&center=false&width=100&height=30">
+    <img src="https://readme-typing-svg.demolab.com?lines=YouTube&color=000000&size=18&center=false&width=100&height=30">
+  </picture>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <!-- Linktree -->
 <a href="https://linktr.ee/andwisakti">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg#gh-light-mode-only">
     <img alt="Linktree" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg" width="28">
   </picture>
-  <span style="font-size: 18px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='75'><text x='0' y='20' fill='white' font-size='18'>Linktree</text></svg>">
-      <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='75'><text x='0' y='20' fill='black' font-size='18'>Linktree</text></svg>">
-      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='75'><text x='0' y='20' fill='black' font-size='18'>Linktree</text></svg>">
-    </picture>
-  </span>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=Linktree&color=FFFFFF&size=18&center=false&width=100&height=30">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?lines=Linktree&color=000000&size=18&center=false&width=100&height=30">
+    <img src="https://readme-typing-svg.demolab.com?lines=Linktree&color=000000&size=18&center=false&width=100&height=30">
+  </picture>
 </a>
 
 </div>
+
