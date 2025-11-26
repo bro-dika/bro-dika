@@ -3,29 +3,8 @@
 </p>
 
 <p align="center">
-  <span class="typing-text">Hello</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Hello guys..." />
 </p>
-
-<style>
-.typing-text {
-  display: inline-block;
-  font-size: 40px;
-  font-weight: bold;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid #000;
-  animation: typing 2s steps(5, end), blink .75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0; }
-  to { width: 5ch; }
-}
-
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-</style>
 
 ---
 
