@@ -33,29 +33,53 @@
 <!-- Instagram -->
 <a href="https://instagram.com/andwisakti">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=00000000&color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=00000000&color=00000000">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=00000000&color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="28" style="filter: invert(0%);">
   </picture>
+  <span style="font-size: 18px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80'><text x='0' y='20' fill='white' font-size='18'>Instagram</text></svg>">
+      <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80'><text x='0' y='20' fill='black' font-size='18'>Instagram</text></svg>">
+      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80'><text x='0' y='20' fill='black' font-size='18'>Instagram</text></svg>">
+    </picture>
+  </span>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <!-- YouTube -->
 <a href="https://youtube.com/@andwisakti">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=00000000&color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=00000000&color=00000000">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=00000000&color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg">
+    <img alt="YouTube" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="28">
   </picture>
+  <span style="font-size: 18px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60'><text x='0' y='20' fill='white' font-size='18'>YouTube</text></svg>">
+      <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60'><text x='0' y='20' fill='black' font-size='18'>YouTube</text></svg>">
+      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60'><text x='0' y='20' fill='black' font-size='18'>YouTube</text></svg>">
+    </picture>
+  </span>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <!-- Linktree -->
 <a href="https://linktr.ee/andwisakti">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linktree-FFFFFF?style=for-the-badge&logo=linktree&logoColor=FFFFFF&labelColor=00000000&color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=000000&labelColor=00000000&color=00000000">
-    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=000000&labelColor=00000000&color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg">
+    <img alt="Linktree" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg" width="28">
   </picture>
+  <span style="font-size: 18px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='75'><text x='0' y='20' fill='white' font-size='18'>Linktree</text></svg>">
+      <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='75'><text x='0' y='20' fill='black' font-size='18'>Linktree</text></svg>">
+      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='75'><text x='0' y='20' fill='black' font-size='18'>Linktree</text></svg>">
+    </picture>
+  </span>
 </a>
 
 </div>
-
