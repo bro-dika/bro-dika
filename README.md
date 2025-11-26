@@ -30,59 +30,21 @@
 
 <div align="center">
 
-<!-- Instagram -->
 <a href="https://instagram.com/andwisakti">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-dark-mode-only">
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-light-mode-only">
-    <img alt="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="28">
-  </picture>
-
-  <!-- TEKS -->
-  <picture>
-    <!-- DARK MODE (Putih) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=Instagram&color=FFFFFF&size=18&center=false&width=100&height=30">
-    <!-- LIGHT MODE (Hitam) -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?lines=Instagram&color=000000&size=18&center=false&width=100&height=30">
-    <img src="https://readme-typing-svg.demolab.com?lines=Instagram&color=000000&size=18&center=false&width=100&height=30">
-  </picture>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28">
+  <br>Instagram
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><br>
-
-<!-- YouTube -->
 <a href="https://youtube.com/@andwisakti">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg#gh-light-mode-only">
-    <img alt="YouTube" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="28">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=YouTube&color=FFFFFF&size=18&center=false&width=100&height=30">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?lines=YouTube&color=000000&size=18&center=false&width=100&height=30">
-    <img src="https://readme-typing-svg.demolab.com?lines=YouTube&color=000000&size=18&center=false&width=100&height=30">
-  </picture>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="55">
+  <br>YouTube
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><br>
-
-<!-- Linktree -->
 <a href="https://linktr.ee/andwisakti">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg#gh-light-mode-only">
-    <img alt="Linktree" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg" width="28">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=Linktree&color=FFFFFF&size=18&center=false&width=100&height=30">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?lines=Linktree&color=000000&size=18&center=false&width=100&height=30">
-    <img src="https://readme-typing-svg.demolab.com?lines=Linktree&color=000000&size=18&center=false&width=100&height=30">
-  </picture>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Linktree_logo.svg" width="28">
+  <br>Linktree
 </a>
 
 </div>
-
