@@ -29,17 +29,32 @@
 ### 🔎 Find me on
 
 <div align="center">
-    
+
+<!-- Instagram -->
 <a href="https://instagram.com/andwisakti">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=00000000&color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=00000000&color=00000000">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=00000000&color=00000000" />
+  </picture>
 </a>
 
+<!-- YouTube -->
 <a href="https://youtube.com/@andwisakti">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=00000000&color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=00000000&color=00000000">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=00000000&color=00000000" />
+  </picture>
 </a>
 
+<!-- Linktree -->
 <a href="https://linktr.ee/andwisakti">
-  <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linktree-FFFFFF?style=for-the-badge&logo=linktree&logoColor=FFFFFF&labelColor=00000000&color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=000000&labelColor=00000000&color=00000000">
+    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=000000&labelColor=00000000&color=00000000" />
+  </picture>
 </a>
 
 </div>
