@@ -1,4 +1,31 @@
-<h2 align="center">Arrrghhh</h2>
+<p align="center">
+  <img src="https://www.gambaranimasi.org/data/media/238/animasi-bergerak-elang-0055.gif" width="200">
+</p>
+
+<p align="center">
+  <span class="typing-text">Hello</span>
+</p>
+
+<style>
+.typing-text {
+  display: inline-block;
+  font-size: 40px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid #000;
+  animation: typing 2s steps(5, end), blink .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 5ch; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+</style>
 
 ---
 
