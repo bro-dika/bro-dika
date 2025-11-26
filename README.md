@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/09/25/02/20/02-20-22-329_512.gif" width="200">
+  <img src="https://www.sinyalmagz.com/wp-content/uploads/2018/10/Cover.gif" width="200">
 </p>
