@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3800&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=Hmmmm..." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3800&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=Hmmmm.+.+." />
 </p>
 
 ---
 
-### Saya kira ini yaa sobb..
+### Maybe..
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
