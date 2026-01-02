@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3800&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=Hidup+senang,+tanpa+panjang+angan." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3800&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=Bismillah,+1%+lebih+baik." />
 </p>
 
 ---
