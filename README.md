@@ -3,6 +3,6 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3800&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=W+e+l+c+o+m+e+.+.+." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3800&pause=900&color=FFD700&center=true&vCenter=true&width=500&lines=W+E+L+C+O+M+E" />
 </p>
 
